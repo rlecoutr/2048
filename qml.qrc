@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Tile.qml</file>
+        <file>Deux.qml</file>
+        <file>Quatre.qml</file>
+        <file>Huit.qml</file>
+        <file>Seize.qml</file>
+        <file>TDeux.qml</file>
+        <file>SQuatre.qml</file>
+        <file>CVHuit.qml</file>
+        <file>DCCSix.qml</file>
+        <file>CCDouze.qml</file>
+        <file>MVQuatre.qml</file>
+        <file>DMQHuit.qml</file>
+    </qresource>
+</RCC>
